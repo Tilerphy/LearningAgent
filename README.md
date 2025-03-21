@@ -1,6 +1,8 @@
-# Interaction is Inefficient
+# Multi-Turn Interaction is Inefficient
 
 *DO YOU NEED TO TALK WITH ATM？IF YES，IT IS QUICKER OR SLOWER THAN FOLLOW THE EXACTLY GUIDE？*
+
+Description and Guide is a kind of one-time interaction.
 
 # First, Play the AnEasyAgentsInteraction.ipynb
 
