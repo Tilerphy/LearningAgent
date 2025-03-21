@@ -1,3 +1,5 @@
+# *DO YOU NEED TO TALK WITH ATM？IF YES，IT IS QUICKER OR SLOWER？*
+
 # First, Play the AnEasyAgentsInteraction.ipynb
 
 In this notebook, you can learn that how to create Agent, how to use Agent. 
@@ -14,7 +16,7 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
 
   In this phase, you just need to agree that, Agent will bring intelligence to legacy object.
 
-- *Phase 2: Evaluate Agent*
+- *Phase 2: Evaluate*
 
   Maybe you have realize that, something is strange, of course, maybe not, no matter again.
 
@@ -60,7 +62,7 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
 
   It is not a good idea to bring in it into our system interation tasks.
   
-  So I said in this section title, drop it.
+  So I said in this section title, drop some LLM agents.
 
   - *Phase 4: Iteration and Improvement*
  
