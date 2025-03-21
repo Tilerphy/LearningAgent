@@ -38,7 +38,7 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
 
   Take an assumption: We have a lot of legacy systems, legacy endpoints, legacy APIs, new Agents. Then we got a new Customer Requirement to Create an API. After thinking and talking about the requirement, we found that we just need to combine some of we have, then we can complete the job.
   
-  If we had done the upgradation from Legacy system to Agent (Phase 1 job). We just need to ask *planner agent* to schedule plan or calling flow, then let *scripting agent* to generate some glue codes, then let *supervior agent* to summarize necessary data and collect it. (Phase 1 job)
+  If we had done the upgradation from Legacy system to Agent, and stored the them into vector database or graph database, maybe call it *Features Store*? (Phase 1 job). We just need to ask *planner agent* to pick necessary features from Features Store then schedule plan or calling flow, then let *scripting agent* to generate some glue codes, then let *supervior agent* to summarize necessary data and collect it. (Phase 1 job)
   
   If we found it is being a stable(after evaluation) Multi-Agent. (Phase 2 job) When this API faces the same or similar request:
 
@@ -58,6 +58,24 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
   
   Because LLM, no matter which type of model, has no 100 percents stability.
 
+  It is not a good idea to bring in it into our system interation tasks.
+  
+  So I said in this section title, drop it.
+
+  - Phase 4: Iteration and Improvement
+ 
+  This phase it not difficult. The last phase, phase 3, is just talking about to create one API. If we do more and more interation works, the created APIs could also to be a new Agent, also to be stored into Features Store. We could build a super huge features store with our existing features, included human created features and AI created features. But, the important thing is that, all features in Features Store have no LLM or model (unless this is originally an LLM or other model feature).
+
+
+# At the end
+
+  This my idea of intellectual low code for *Dynamic and Automatic System Integration*: Create Agent, Evaluate Agent, Drop Agent, Iteration.
+  
+  I have no proof that if it was correct or not, for me, I have no enough time to do the detail research, but I hope everyone who read this article helps me to find proof or disproof.
+
+  If you have any clue or new progress, please tell me.
+
+  I may go for other 
   
 
   
