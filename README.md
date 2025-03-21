@@ -6,7 +6,7 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
 
 # Phases
 
-- Phase 1: Create Agents
+- *Phase 1: Create Agent*
 
   No matter which type of Agent you want to create, just do it.
   
@@ -14,7 +14,7 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
 
   In this phase, you just need to agree that, Agent will bring intelligence to legacy object.
 
-- Phase 2: Evaluate the Interaction Context
+- *Phase 2: Evaluate Agent*
 
   Maybe you have realize that, something is strange, of course, maybe not, no matter again.
 
@@ -34,7 +34,7 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
 
   Why? The reason is in the next Phase. Because in some project or produc, we just need to evaluate it and give some report to customer or to ourself, the work is done here. But, if your work is to intergrate systems or other agent, you need to step into next Phrases.
 
-  - Phase 3: Persistent And Drop it(For Dynamic & Automatic Systems Integration)
+  - *Phase 3: Drop Agent(For Dynamic & Automatic Systems Integration)*
 
   Take an assumption: We have a lot of legacy systems, legacy endpoints, legacy APIs, new Agents. Then we got a new Customer Requirement to Create an API. After thinking and talking about the requirement, we found that we just need to combine some of we have, then we can complete the job.
   
@@ -62,7 +62,7 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
   
   So I said in this section title, drop it.
 
-  - Phase 4: Iteration and Improvement
+  - *Phase 4: Iteration and Improvement*
  
   This phase it not difficult. The last phase, phase 3, is just talking about to create one API. If we do more and more interation works, the created APIs could also to be a new Agent, also to be stored into Features Store. We could build a super huge features store with our existing features, included human created features and AI created features. But, the important thing is that, all features in Features Store have no LLM or model (unless this is originally an LLM or other model feature).
 
@@ -73,11 +73,6 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
   
   I have no proof that if it was correct or not, for me, I have no enough time to do the detail research, but I hope everyone who read this article helps me to find proof or disproof.
 
-  If you have any clue or new progress, please tell me.
+  If you have any clue or new progress, please tell me if possible.
 
-  I may go for other 
-  
-
-  
-  
 
