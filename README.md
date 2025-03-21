@@ -34,7 +34,7 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
 
   Why? The reason is in the next Phase. Because in some project or produc, we just need to evaluate it and give some report to customer or to ourself, the work is done here. But, if your work is to intergrate systems or other agent, you need to step into next Phrases.
 
-  - Phase 3: Persistent (For Dynamic & Automatic Systems Integration)
+  - Phase 3: Persistent And Drop it(For Dynamic & Automatic Systems Integration)
 
   Take an assumption: We have a lot of legacy systems, legacy endpoints, legacy APIs, new Agents. Then we got a new Customer Requirement to Create an API. After thinking and talking about the requirement, we found that we just need to combine some of we have, then we can complete the job.
   
@@ -50,7 +50,15 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
 
   Probably not.
 
-  Then we need to make the plan, calling flow, generated glue codes, input/output rule and so on, to be persistent.
+  I think we need to make the plan, calling flow, generated glue codes, input/output rule and so on, to be persistent.
+
+  Then when we call this API again, API will have better performance and more stability.
+
+  Because LLM, no matter which type of model, will cost a lot of calculating time then normal logic.
+  
+  Because LLM, no matter which type of model, has no 100 percents stability.
+
+  
 
   
   
