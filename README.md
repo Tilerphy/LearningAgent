@@ -75,7 +75,7 @@ Do not mind if it is 'autogen' based, you can also write codes by yourself to ma
 
 # At the end
 
-  This my idea of intellectual low code for *Dynamic and Automatic System Integration*: Create Agent, Evaluate Agent, Drop Agent, Iteration.
+  This my idea of intellectual low code for *Dynamic and Automatic System Integration*: Create, Evaluate, Drop, Iteration.
   
   I have no proof that if it was correct or not, for me, I have no enough time to do the detail research, but I hope everyone who read this article helps me to find proof or disproof.
 
